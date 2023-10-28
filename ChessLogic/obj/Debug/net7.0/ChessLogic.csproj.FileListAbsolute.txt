@@ -1,0 +1,11 @@
+C:\Users\sebas\Documents\Visual Studio 2022\Chess_game\ChessLogic\bin\Debug\net7.0\ChessLogic.deps.json
+C:\Users\sebas\Documents\Visual Studio 2022\Chess_game\ChessLogic\bin\Debug\net7.0\ChessLogic.dll
+C:\Users\sebas\Documents\Visual Studio 2022\Chess_game\ChessLogic\bin\Debug\net7.0\ChessLogic.pdb
+C:\Users\sebas\Documents\Visual Studio 2022\Chess_game\ChessLogic\obj\Debug\net7.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\Visual Studio 2022\Chess_game\ChessLogic\obj\Debug\net7.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\Visual Studio 2022\Chess_game\ChessLogic\obj\Debug\net7.0\ChessLogic.AssemblyInfo.cs
+C:\Users\sebas\Documents\Visual Studio 2022\Chess_game\ChessLogic\obj\Debug\net7.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\Visual Studio 2022\Chess_game\ChessLogic\obj\Debug\net7.0\ChessLogic.dll
+C:\Users\sebas\Documents\Visual Studio 2022\Chess_game\ChessLogic\obj\Debug\net7.0\refint\ChessLogic.dll
+C:\Users\sebas\Documents\Visual Studio 2022\Chess_game\ChessLogic\obj\Debug\net7.0\ChessLogic.pdb
+C:\Users\sebas\Documents\Visual Studio 2022\Chess_game\ChessLogic\obj\Debug\net7.0\ref\ChessLogic.dll
