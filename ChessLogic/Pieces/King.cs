@@ -49,7 +49,10 @@
 
         public override IEnumerable<Move> GetMoves(Position from, Board board)
         {
-            return MovePositions(from, board).Select(to => new NormalMove(from, to));
+           foreach(Position to in MovePositions(from, board))
+            {
+               yield return new NormalMove(from, to);
+           }
         }
     }
 }
