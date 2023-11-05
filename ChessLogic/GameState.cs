@@ -18,5 +18,22 @@ namespace ChessLogic
             Board = board;
         }
 
+        public IEnumerable<Move> LegalMovesForPieces(Position position)
+        {
+            if(Board.IsEmpty(position) || Board[position].Color != CurrentPalyer)
+            {
+                return Enumerable.Empty<Move>();
+            }
+
+            Piece piece = Board[position];
+            return piece.GetMoves(position, Board);
+        }
+
+        public void MakeMove(Move move)
+        {
+           move.Execute(Board);
+            CurrentPalyer = CurrentPalyer.Opponent();
+        }   
+
     }
 }
